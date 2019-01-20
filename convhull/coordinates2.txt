@@ -1,0 +1,10 @@
+200 255
+400 455
+501 452
+560 400
+420 69
+499 399
+401 333
+123 456
+*coordinates can be changed
+*lines are drawn in order the coordinates appear
