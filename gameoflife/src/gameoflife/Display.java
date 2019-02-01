@@ -23,7 +23,6 @@ public class Display extends JComponent implements MouseListener, MouseMotionLis
    private StartButton startStop;
    private boolean paintloop = false;
    
-
    public Display(int width, int height) {
        DISPLAY_WIDTH = width;
        DISPLAY_HEIGHT = height;
