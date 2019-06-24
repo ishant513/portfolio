@@ -1,5 +1,1 @@
-Ishan's coding exercise for 10th grade primarily to help AP Computer Science A.
-The goal of this repository is to help my fellow students get some help in 
-realizing coding is fun!!
-
-
+These are my codes for AP Computer Science A and also some personal side projects. Hopefully you enjoy these codes and find some use in them.
